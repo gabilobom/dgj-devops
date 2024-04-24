@@ -26,3 +26,14 @@ Nossa missão é fornecer produtos / serviços de alta qualidade que superem as 
 Nosso público-alvo inclui empresas de pequeno, médio e grande porte, bem como consumidores finais que valorizam a qualidade e a eficiência.
 
 Estamos sempre em busca de novas parcerias e oportunidades de negócio. Se você valoriza a qualidade, a inovação e a confiabilidade, entre em contato conosco e descubra como podemos ajudar a sua empresa a alcançar novos patamares de sucesso.
+
+
+### Clientes
+
+Nossos parceiros:
+
+Jose Marinho,
+Antonio Santos,
+Joao Silva,
+AP Cia,
+Redes mercantil
